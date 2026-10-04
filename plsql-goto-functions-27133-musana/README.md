@@ -15,7 +15,7 @@
 |---|---|
 | **Student** | Musana |
 | **Student ID** | 27133 |
-| **Group** | `<I / B / C / D>` |
+| **Group** | `C` |
 | **Submitted** | October 2026 |
 
 ---
